@@ -2,8 +2,9 @@
 
 **Journal date:** `2015-09-06T23:10:00-07:00`
 
-Downloaded the command line version: `Anaconda-2.3.0-MacOSX-x86_64.sh` for
-64-bit Python 2.7. 
+Downloaded the command line version of Anaconda from the [Continuum Analytics
+website](http://continuum.io/downloads). The version I got at the time of this
+journal is `Anaconda-2.3.0-MacOSX-x86_64.sh` for 64-bit Python 2.7. 
 
 ```bash
 $ cd ~/Downloads/
