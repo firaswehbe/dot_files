@@ -65,3 +65,12 @@ $ jupyter notebook
 > # A notebook server starts up on port 8888.
 > # Your browser launches in your directory with a jupyter notebook working.
 ```
+
+I also install BioPython as a matter of default. This gives you libraries to
+interact with the National Library of Medicine's NCBI databases like
+[PubMed](http://www.pubmed.gov/).
+
+```bash
+$ conda install biopython
+> # At the time of this jounral, installs version 1.65
+```
