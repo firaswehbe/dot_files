@@ -5,6 +5,7 @@
 [user]
 	name = Firas Wehbe
 	email = firaswehbe@users.noreply.github.com
+	signingkey = 5C8462E44CCDDFBB
 [color]
 	ui = auto
 [alias]
@@ -14,3 +15,7 @@
 	st = status
 	ci = commit
 	co = checkout
+[gpg]
+        program = gpg2
+[commit]
+        gpgsign = true
