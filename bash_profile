@@ -29,3 +29,6 @@ ${MY_GRAY_COLOR}\$(parse_git_branch)${MY_DEFAULT_COLOR}\$ "
 
 # Aliases
 alias ll='ls -aGhl'
+
+# Add MacVim to path
+export PATH=$PATH:/Applications/MacVim.app/Contents/bin
